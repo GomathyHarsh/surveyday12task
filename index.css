@@ -1,0 +1,24 @@
+.box{
+    
+    flex-wrap:wrap;
+    align-content:center;
+  border: 50px whitesmoke;
+  padding:10px 50px;
+  margin:30px 10px;
+  justify-content:space-evenly;
+  background-color:white;
+}
+#e{
+width:500px;
+}
+table, tr, td {
+    text-align: center;
+    border: hidden;
+  }
+  .asterisk_input::after {
+    content:" *"; 
+    color: #e32;
+  }
+  
+
+  
